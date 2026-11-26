@@ -1,0 +1,13 @@
+[2026-11-26 11:25:25] Hostname changed to harisguard
+[2026-11-26 11:27:47] IP address set to 10.01.02.1
+[2026-11-26 11:31:55] Attack succeeded: Penetration attempt
+[2026-11-26 11:32:06] Attack succeeded: Port scan detected
+[2026-11-26 11:32:15] Attack succeeded: Brute force login attempt
+[2026-11-26 11:32:26] Attack succeeded: Malware upload attempt on FTP
+[2026-11-26 11:32:38] Attack succeeded: DDoS on HTTP service
+[2026-11-26 11:36:06] ssh service stopped
+[2026-11-26 11:38:07] http service stopped
+[2026-11-26 11:39:30] ftp service stopped
+[2026-11-26 11:42:07] Firewall active
+[2026-11-26 11:43:18] http service started
+[2026-11-26 11:44:17] Quiz mode completed with score: 35
